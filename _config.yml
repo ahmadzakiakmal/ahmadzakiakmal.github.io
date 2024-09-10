@@ -68,6 +68,9 @@ author:
     # - label: "Twitter"
     #   icon: "fab fa-fw fa-twitter-square"
     #   url: "https://twitter.com/"
+    - label: "Linkedin"
+      icon: "fa-brands fa-linkedin"
+      url: "https://www.linkedin.com/in/ahmad-zaki-akmal/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/ahmadzakiakmal"
@@ -82,10 +85,13 @@ footer:
     #   url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/ahmadzakiakmal"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/ahmad.zaki.akmal"
+    - label: "Linkedin"
+      icon: "fa-brands fa-linkedin"
+      url: "https://linkedin.com/ahmad-zaki-akmal"
 
 defaults:
   # _posts
