@@ -1,0 +1,6 @@
+---
+permalink: /
+title: "Home"
+---
+
+Home
