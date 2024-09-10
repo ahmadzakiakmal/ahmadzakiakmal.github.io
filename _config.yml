@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Ahmad Zaki Akmal"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/bio-photo.jpeg"
   bio    : "Information Engineering Student at Universitas Gadjah Mada"
   links:
     - label: "Website"
