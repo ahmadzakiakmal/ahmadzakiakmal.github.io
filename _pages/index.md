@@ -52,7 +52,7 @@ I’m available for freelance software development projects. If you're intereste
     (Aug 2023 - Nov 2023)
   ```
 
-- **Pionir Kesatria 2023**
+- **PPSMB Kesatria 2023**
   &nbsp;<img src="assets/images/Pionir-Kesatria.png" width="48px" />
   ```
     Head of IT Division
