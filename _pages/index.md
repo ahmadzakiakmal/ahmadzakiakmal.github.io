@@ -13,12 +13,14 @@ I’m available for freelance software development projects. If you're intereste
 <h1>Experience</h1>
 
 - **Packet Systems Indonesia**
+  &nbsp;<img src="assets/images/PSI.jpg" width="48px" />
   ```
     Software Engineer Intern
     (Jan 2024 - Feb 2024)
   ```
 
 - **Night Login DTETI FT UGM**
+  &nbsp;<img src="assets/images/NightLogin.jpg" width="48px" />
   ```
   • Vice President
     (Nov 2023 - Present)
@@ -31,6 +33,7 @@ I’m available for freelance software development projects. If you're intereste
   ```
 
 - **Universitas Gadjah Mada**
+  &nbsp;<img src="assets/images/UGM.jpg" width="48px" />
   ```
   • Junior Project Lab Assistant
     (Aug 2024 - Present)
@@ -43,25 +46,28 @@ I’m available for freelance software development projects. If you're intereste
   ```
 
 - **ENOVA Project**
+  &nbsp;<img src="assets/images/ENOVA.jpg" width="48px" />
   ```
     Front End Developer
     (Aug 2023 - Nov 2023)
   ```
 
 - **Pionir Kesatria 2023**
-  <!-- <img src="assets/images/Pionir-Kesatria.png" width="48px" /> -->
+  &nbsp;<img src="assets/images/Pionir-Kesatria.png" width="48px" />
   ```
     Head of IT Division
     (May 2023 - Aug 2023)
   ```
 
 - **Technocorner 2023**
+  &nbsp;<img src="assets/images/Technocorner.jpg" width="48px" />
   ```
     Full Stack Developer
     (Oct 2022 - Jun 2023)
   ```
 
 - **FindIT! UGM 2023**
+  &nbsp;<img src="assets/images/FindIT.jpg" width="48px" />
   ```
     Full Stack Developer
     (Oct 2022 - Jun 2023)

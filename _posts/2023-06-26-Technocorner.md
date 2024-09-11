@@ -19,5 +19,6 @@ I worked extensively on the **front-end** development of the main Technocorner w
 
 Additionally, I led a sub-team responsible for developing the **Electrical Engineering Competition's exam platform**. My responsibilities included both front-end and back-end tasks. On the front-end, I focused on **layout design**, **visual logic implementation**, and enhancing **user interactions**. For the back-end, I developed the **CRUD endpoints** and managed **websocket communications** to ensure real-time functionality.
 
-The technologies I used throughout the project included **Next.js**, **TailwindCSS**, **Socket.IO**, **ExpressJS**, and **MongoDB**.
+![Technocorner Exam Platform](/assets/images/TC2.jpg) 
 
+The technologies I used throughout the project included **Next.js**, **TailwindCSS**, **Socket.IO**, **ExpressJS**, and **MongoDB**.
