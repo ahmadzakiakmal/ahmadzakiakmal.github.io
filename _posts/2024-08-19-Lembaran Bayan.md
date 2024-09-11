@@ -12,7 +12,7 @@ As part of my **Student Community Service (KKN)** program conducted in **Bayan**
 
 One of the major successes was the creation of a **web application** for **Kecamatan Bayan**, which has significantly enhanced the visibility of both Desa Bayan and Desa Senaru. The website serves as an effective promotional platform, showcasing the **tourism potential**, **cultural richness**, and **local activities** of the two villages to a broader audience. By increasing awareness, the website aims to attract more tourists and support the local economy.
 
-The website can be accessed via the following link: [Lembaran Bayan Website](website-bayan.vercel.app).
+The website can be accessed via the following link: [Lembaran Bayan Website](https://website-bayan.vercel.app).
 
 ![](/assets/images/Bayan1.png)
 
