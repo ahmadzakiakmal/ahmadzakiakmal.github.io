@@ -5,8 +5,13 @@ categories:
   - blog
 tags:
   - project
-  - university
+  - university project
   - senior project
+  - Next.JS
+  - TailwindCSS
+  - Flask
+  - Langchain
+  - Docker
 ---
 ![image](/assets/images/CSS1.png)
 

@@ -5,7 +5,9 @@ categories:
   - blog
 tags:
   - project
-  - work
+  - freelance
+  - Next.JS
+  - TailwindCSS
 ---
 
 Paper GenB is an innovative, eco-friendly detergent made using **Belimbing Wuluh** (*Averrhoa bilimbi*), aimed at offering a sustainable alternative to synthetic detergents. As part of this initiative, I was contracted to develop the **official Paper GenB website** to promote the product and allow customers to place orders directly online. The website also serves as an educational platform, informing users about the environmental benefits of the product and how it helps reduce plastic waste and water pollution.

@@ -6,6 +6,9 @@ categories:
 tags:
   - project
   - organization
+  - Next.JS
+  - TailwindCSS
+  - TypeScript
 ---
 
 **Night Login (NL)** is a vibrant community designed for students passionate about the **IT field**, offering a space where they can explore and develop their skills in various areas such as software development, application development, and more. As the **Vice President** of Night Login for the 2023/2024 period, I had the opportunity to not only lead but also handle several technical aspects of the organization’s activities. One of the major tasks I took on was overseeing the development of the official **Night Login website**.

@@ -7,6 +7,8 @@ tags:
   - project
   - work
   - internship
+  - React Native
+  - TypeScript
 ---
 
 During my **internship** at **Packet Systems Indonesia (PSI)**, I was assigned to develop a **mobile application** aimed at helping companies analyze **employee performance** and provide **customer service** using an integrated **chatbot** solution.

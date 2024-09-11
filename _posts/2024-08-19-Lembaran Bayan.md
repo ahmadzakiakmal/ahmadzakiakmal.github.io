@@ -6,6 +6,10 @@ categories:
 tags:
   - project
   - student community service (KKN)
+  - Next.JS
+  - TailwindCSS
+  - Express.JS
+  - MongoDB
 ---
 
 As part of my **Student Community Service (KKN)** program conducted in **Bayan**, North Lombok, West Nusa Tenggara, I developed a **website** to help promote the region and its unique potential. The KKN-PPM project, carried out in **Desa Bayan** and **Desa Senaru**, has led to several key achievements that have positively impacted the local community.

@@ -6,6 +6,11 @@ categories:
 tags:
   - project
   - event
+  - Next.JS
+  - TailwindCSS
+  - MongoDB
+  - Express.JS
+  - websocket
 ---
 **Technocorner UGM** is an event organized by the **Department of Electrical Engineering and Information Engineering (DTETI)** at Universitas Gadjah Mada. The event focuses primarily on electronics and robotics, along with competitions related to internet of things (IoT).
 
