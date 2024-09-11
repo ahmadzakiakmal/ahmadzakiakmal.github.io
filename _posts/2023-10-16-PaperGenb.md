@@ -12,6 +12,10 @@ Paper GenB is an innovative, eco-friendly detergent made using **Belimbing Wuluh
 
 ![PaperGenB1](/assets/images/PaperGenB1.png)
 
+<p align="center">
+  <a href="https://papergenb.aufarhmn.my.id">Paper GenB Website</a>
+</p>
+
 For this project, I was responsible for developing the **front-end** of the website using **Next.js** and **TailwindCSS**, ensuring a modern and responsive user interface. The main focus was to create a seamless shopping experience for users, allowing them to easily browse through the product information and make purchases. The website design emphasizes simplicity and user-friendliness while maintaining a clean, professional aesthetic that aligns with the brand’s eco-friendly message. I also worked to integrate educational elements into the website, which help users understand the importance of choosing sustainable products like Paper GenB.
 
 ![PaperGenB2](/assets/images/PaperGenB2.png)
