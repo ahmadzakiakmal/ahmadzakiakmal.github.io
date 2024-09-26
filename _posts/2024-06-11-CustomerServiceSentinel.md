@@ -29,6 +29,6 @@ The chatbot itself was powered by **OpenAI’s API**, and we integrated it with 
 
 The **Customer Service Sentinel** simplifies the adoption of **AI-driven customer support** solutions while empowering businesses to customize their chatbot service without needing deep technical knowledge. This project was the culmination of our team's efforts to develop practical tech solutions that bridge the gap between **innovation** and **accessibility**.
 
-We tested the chatbot on **[Night Login's website](/blog/NightLogin)**, where it operated under the name **NL Bot**. Unfortunately, due to a lack of funding, we were unable to maintain the service beyond the timeline of our senior project. However, the project remains available for exploration, and you can find more details on our [GitHub page](https://ahmadzakiakmal.github.io/CustomerServiceSentinel/).
+We tested the chatbot on **[Night Login's website](/blog/NightLogin)**, where it operated under the name **NL Bot**. Unfortunately, due to a lack of funding, we were unable to maintain the service beyond the timeline of our senior project. However, the project remains available for exploration, and you can find more details on our [GitHub page](https://github.com/ahmadzakiakmal/CustomerServiceSentinel/).
 
 ![image](/assets/images/CSS4.png)
