@@ -19,7 +19,7 @@ Inspired by the [project I contributed to during my internship](/blog/CrampasAI/
 
 ![image](/assets/images/CSS2.png)
 
-As the **team leader**, I was responsible for overseeing the project from **conception to deployment**, ensuring that all aspects of development ran smoothly. Although I contributed to various components, my primary focus was on the **back-end development** and the chatbot’s core functionalities. The **front-end** was designed and built using **Next.js** and **TailwindCSS**, which provided a modern, responsive, and user-friendly interface. On the back end, I used **Flask** and **Docker** to create the API responsible for managing and delivering chatbot services respectively.
+As the **team leader**, I was responsible for overseeing the project from **conception to deployment**, ensuring that all aspects of development ran smoothly. Although I contributed to various components, my primary focus was on the **back-end development** and the chatbot’s core functionalities. The **front-end** was designed and built using **Next.js** and **TailwindCSS**, which provided a modern, responsive, and user-friendly interface. On the back end, I used **Flask** to create the API responsible for managing and delivering chatbot services respectively. I also used **Docker** to deploy the finished project.
 
 ![image](/assets/images/CSS3.png)
 
